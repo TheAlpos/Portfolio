@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.thealpos.com" resolutions="1x" timestamp="1635021198460">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.thealpos.com" resolutions="1x" timestamp="1639588438014">
   <folder name="css">
     <file name="site_global.css" crc="483454679"/>
-    <file name="master_a-master.css" crc="1472924" ref="index"/>
-    <file name="index.css" crc="3963402627" ref="index"/>
+    <file name="master_a-master.css" crc="415493281" ref="index"/>
+    <file name="index.css" crc="4276779229" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="swisscb.woff" crc="483865405"/>
@@ -30,6 +30,15 @@
     </file>
     <file name="bdh ahu 003-u188-fr.png" crc="4194716919" ref="index"/>
     <file name="ta_logo 01.png" crc="3818960336" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="revit 01.jpg" crc="352169716" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="autocad 01.jpg" crc="110837977" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loopcad 01.jpg" crc="3906174287" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ta_icon 01.png" crc="82895814" ref="index">
@@ -63,15 +72,6 @@
     <file name="phexvh 01.jpg" crc="47115962" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="revit 01.jpg" crc="352169716" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="autocad 01.jpg" crc="110837977" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="loopcad 01.jpg" crc="3906174287" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="influx 01.jpg" crc="428687622" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -88,6 +88,15 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="hap 01.jpg" crc="4101663345" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1200px-python-logo-notextsvg.png" crc="4070225603" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pyrevit_4_128.png" crc="4011154460" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dynamo-for-revit-logo.png" crc="4224962006" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="bdh 01.png" crc="4030034281" seo="true" ref="index">
@@ -115,5 +124,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="198622760" seo="true" mt="1635021197486" redirect="true"/>
+  <file name="index.html" crc="4256008011" seo="true" mt="1639588436946" redirect="true"/>
 </manifest>
